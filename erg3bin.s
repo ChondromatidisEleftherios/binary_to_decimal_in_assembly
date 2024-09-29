@@ -111,5 +111,5 @@ syscall
 
 skip:
 
-li $v0, 10 #ΤΕΛΟΣ ΠΡΟΓΡΑΜΜΑΤΟΣ
+li $v0, 10 #End of Program
 syscall
