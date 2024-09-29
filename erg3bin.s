@@ -1,7 +1,7 @@
 .data
-mes1: .asciiz "Grapse enan arithmo sto dyadiko systhma arithmishs\n"
-mes2: .asciiz "Arithmos sto dyadiko!\n"
-mes3: .asciiz "Den einai arithmos sto dyadiko..."
+mes1: .asciiz "Type a Binary Number\n"
+mes2: .asciiz "It's a Binary number!\n"
+mes3: .asciiz "Not a Binary Number..."
 bsn: .asciiz "\n"
 num: .word 0
 num1 : .word 0
